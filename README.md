@@ -19,7 +19,7 @@ Replace links and small placeholders (linktr.ee, mail, linkedin) with your own l
 
 <div align="center">
 
-![Header Banner](   )
+![Header Banner](https://github.com/Mukul2112/Mukul2112/blob/main/image.png?raw=true)
 
 </div>
 
